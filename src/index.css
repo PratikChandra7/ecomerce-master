@@ -62,7 +62,7 @@ code {
 }
 .product_container {
   flex-grow: 1;
-  background-color: #eaeded;
+  background-color: #000000;
   padding: 100px 250px;
   display: flex;
   flex-direction: row;
